@@ -1,7 +1,7 @@
-# Arquitectura-Escala-y-Practicas-Reales
-No buscamos convencerte con aspiraciones; queremos hablar de ingeniero senior a ingeniero senior.
+# Arquitectura Escala y Practicas Reales
+"No buscamos convencerte con aspiraciones; queremos hablar de ingeniero senior a ingeniero senior."
 
-Aquí documentamos nuestras decisiones de diseño específico, métricas de resiliencia y cómo enfrentamos los datos duros de producción en el día a día.
+"Aquí documentamos nuestras decisiones de diseño específico, métricas de resiliencia y cómo enfrentamos los datos duros de producción en el día a día."
 
 
 La belleza de la tecnología aburrida
