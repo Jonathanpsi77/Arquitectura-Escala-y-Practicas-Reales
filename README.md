@@ -5,6 +5,8 @@
 
 ## La belleza de la tecnología aburrida
 
+https://github.com/Jonathanpsi77/Arquitectura-Escala-y-Practicas-Reales/issues/1
+
 🛠️ Filosofía "Boring Technology" y Justificación de nuestro Stack
 Nuestra elección tecnológica es una decisión deliberada y madura. En lugar de perseguir la herramienta de moda, priorizamos la velocidad de entrega y la estabilidad frente a una complejidad regulatoria y tributaria que cambia constantemente de forma simultánea en 5 países.
 
