@@ -7,7 +7,8 @@
 
 <img width="670" height="402" alt="Image" src="https://github.com/user-attachments/assets/c95c122c-8a0d-47a4-bf93-b36bf27d0b5f" />
 
-🛠️ Filosofía "Boring Technology" y Justificación de nuestro Stack
+>🛠️ Filosofía "Boring Technology" y Justificación de nuestro Stack
+
 Nuestra elección tecnológica es una decisión deliberada y madura. En lugar de perseguir la herramienta de moda, priorizamos la velocidad de entrega y la estabilidad frente a una complejidad regulatoria y tributaria que cambia constantemente de forma simultánea en 5 países.
 
 Ruby on Rails PostgreSQL Mecanografiado PHP Kubernetes
