@@ -11,6 +11,4 @@
 
 Nuestra elección tecnológica es una decisión deliberada y madura. En lugar de perseguir la herramienta de moda, priorizamos la velocidad de entrega y la estabilidad frente a una complejidad regulatoria y tributaria que cambia constantemente de forma simultánea en 5 países.
 
-Ruby on Rails PostgreSQL Mecanografiado PHP Kubernetes
 
-Por qué elegimos Boring Tech
