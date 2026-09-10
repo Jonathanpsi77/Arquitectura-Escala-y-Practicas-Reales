@@ -3,11 +3,11 @@
 
 *Aquí documentamos nuestras decisiones de diseño específico, métricas de resiliencia y cómo enfrentamos los datos duros de producción en el día a día.*
 
-## La belleza de la tecnología aburrida
+## 🛠️ La belleza de la tecnología aburrida
 
 <img width="670" height="402" alt="Image" src="https://github.com/user-attachments/assets/c95c122c-8a0d-47a4-bf93-b36bf27d0b5f" />
 
->🛠️ Filosofía "Boring Technology" y Justificación de nuestro Stack
+>Filosofía "Boring Technology" y Justificación de nuestro Stack
 
 Nuestra elección tecnológica es una decisión deliberada y madura. En lugar de perseguir la herramienta de moda, priorizamos la velocidad de entrega y la estabilidad frente a una complejidad regulatoria y tributaria que cambia constantemente de forma simultánea en 5 países.
 
